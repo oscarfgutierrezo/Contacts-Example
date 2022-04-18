@@ -23,6 +23,7 @@ module.exports = {
         cont01: 'url("../img/contacts-01.png")',
         cont02: 'url("../img/contacts-02.png")',
         cont04: 'url("../img/contacts-04.png")',
+        cont09: 'url("../img/contacts-09.png")',
       },
     },
   },
